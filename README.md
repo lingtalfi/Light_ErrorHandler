@@ -30,6 +30,7 @@ Summary
 - [Services](#services)
 - Pages
     - [Conception notes](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/pages/conception-notes.md)
+- [Related](#related)
 
 
 
@@ -97,9 +98,24 @@ $logger.methods_collection:
 
 
 
+Related
+=============
+
+- [Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop/)
+- [Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler/)
+    
+    
+    
+
+
+
 History Log
 =============
 
+- 1.0.2 -- 2020-06-01
+
+    - Added related section in README.md
+    
 - 1.0.1 -- 2020-06-01
 
     - fix doc (forgot to generate)
