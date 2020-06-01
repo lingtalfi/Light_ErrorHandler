@@ -29,12 +29,12 @@ class <span class="pl-k">LightErrorHandlerService</span>  {
 
 - Properties
     - private bool [$functionsRegistered](#property-functionsRegistered) ;
-    - protected Ling\Light\ServiceContainer\LightServiceContainerInterface [$container](#property-container) ;
+    - protected [Ling\Light\ServiceContainer\LightServiceContainerInterface](https://github.com/lingtalfi/Light/blob/master/doc/api/Ling/Light/ServiceContainer/LightServiceContainerInterface.md) [$container](#property-container) ;
     - protected array [$options](#property-options) ;
 
 - Methods
     - public [__construct](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/api/Ling/Light_ErrorHandler/Service/LightErrorHandlerService/__construct.md)() : void
-    - public [setContainer](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/api/Ling/Light_ErrorHandler/Service/LightErrorHandlerService/setContainer.md)(Ling\Light\ServiceContainer\LightServiceContainerInterface $container) : void
+    - public [setContainer](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/api/Ling/Light_ErrorHandler/Service/LightErrorHandlerService/setContainer.md)([Ling\Light\ServiceContainer\LightServiceContainerInterface](https://github.com/lingtalfi/Light/blob/master/doc/api/Ling/Light/ServiceContainer/LightServiceContainerInterface.md) $container) : void
     - public [setOptions](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/api/Ling/Light_ErrorHandler/Service/LightErrorHandlerService/setOptions.md)(array $options) : void
     - public [registerFunctions](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/api/Ling/Light_ErrorHandler/Service/LightErrorHandlerService/registerFunctions.md)() : void
     - public [fatalErrorHandler](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/api/Ling/Light_ErrorHandler/Service/LightErrorHandlerService/fatalErrorHandler.md)() : void

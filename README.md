@@ -100,6 +100,10 @@ $logger.methods_collection:
 History Log
 =============
 
+- 1.0.1 -- 2020-06-01
+
+    - fix doc (forgot to generate)
+    
 - 1.0.0 -- 2020-06-01
 
     - initial commit

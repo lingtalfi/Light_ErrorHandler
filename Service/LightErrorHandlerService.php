@@ -77,7 +77,7 @@ class LightErrorHandlerService
 
     /**
      * Registers the error handling functions based on the service configuration.
-     * See the @page(Light_ErrorHandlerService conception notes) for more details.
+     * See the @page(Light_ErrorHandler conception notes) for more details.
      *
      */
     public function registerFunctions()

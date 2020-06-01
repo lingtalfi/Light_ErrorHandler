@@ -22,7 +22,7 @@ public [LightErrorHandlerService::registerFunctions](https://github.com/lingtalf
 
 
 Registers the error handling functions based on the service configuration.
-See the Light_ErrorHandlerService conception notes for more details.
+See the [Light_ErrorHandler conception notes](https://github.com/lingtalfi/Light_ErrorHandler/blob/master/doc/pages/conception-notes.md) for more details.
 
 
 
