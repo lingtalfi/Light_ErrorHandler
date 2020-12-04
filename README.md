@@ -107,6 +107,10 @@ Related
 History Log
 =============
 
+- 1.0.4 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.3 -- 2020-11-30
 
     - update service, add handleLogErrors option
