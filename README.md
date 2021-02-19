@@ -1,6 +1,6 @@
 Light_ErrorHandler
 ===========
-2020-06-01 -> 2021-02-12
+2020-06-01 -> 2021-02-19
 
 
 
@@ -107,6 +107,10 @@ Related
 History Log
 =============
 
+- 1.0.7 -- 2021-02-19
+
+    - fix service errorHandler not being public
+  
 - 1.0.6 -- 2021-02-12
 
     - fix functional typo in service->registerFunctions
