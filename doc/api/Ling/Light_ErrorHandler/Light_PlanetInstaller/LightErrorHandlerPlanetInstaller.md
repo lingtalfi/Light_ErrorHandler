@@ -4,7 +4,7 @@
 
 The LightErrorHandlerPlanetInstaller class
 ================
-2020-06-01 --> 2021-06-25
+2020-06-01 --> 2021-06-28
 
 
 
